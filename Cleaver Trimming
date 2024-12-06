@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cleaver Trimming</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cleaver Trimming</h1>
+        <p>Your Trusted Tree Trimming Service in Penryn, CA</p>
+    </header>
+
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>At Cleaver Trimming, we specialize in professional tree trimming services. Please note that we <strong>do not cut down trees</strong>. Our services include:</p>
+            <ul>
+                <li>Palm tree trimming</li>
+                <li>Palm tree skin removal</li>
+                <li>General tree trimming for aesthetics and health</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Have questions or need a quote? Get in touch with us!</p>
+            <p><strong>Phone:</strong> 916-521-9079</p>
+            <p>We look forward to helping you maintain beautiful and healthy trees!</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Cleaver Trimming. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
